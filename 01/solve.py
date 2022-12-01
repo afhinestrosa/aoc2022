@@ -1,4 +1,4 @@
-# Challenge: essentially find the maximum calories carried by an elf
+# Challenge: find the maximum calories carried by an elf
 
 f = open('input')
 
