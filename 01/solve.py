@@ -15,3 +15,5 @@ while text != '':
     text = f.readline()
 
 f.close()
+print(maximum_calories)
+
