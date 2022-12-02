@@ -6,11 +6,7 @@ result_LUT = {
     'C': {'X': 6, 'Y': 0, 'Z': 3},
 }
 
-play_LUT = {
-    'X' : 1,
-    'Y' : 2,
-    'Z' : 3
-}
+play_LUT = {'X' : 1, 'Y' : 2, 'Z' : 3}
 
 line = f.readline()
 score = 0
